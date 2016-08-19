@@ -1,23 +1,65 @@
-# Maratonistas
-1. Descargar git 
-	Linux: sudo apt-get install git
-	Windows: https://git-scm.com/download/win
+# Maratonistas #
 
-2. Ubicarse en la carpeta donde tienen sus proyectos Uva
+Repositorio de código fuente de soluciones de ejercicios (UVA Judge, Codeforces, Hackerank...) realizados por estudiantes de la Universidad de la Amazonia.
 
-3. Ejecutar en la consola de git
+## Empezando #
 
-	git branch NombreEquipo
-	git checkout NombreEquipo
+Los ejercicios se encuentran programados en distintos lenguajes de programacion como C++, Java y Python. Se debe tener configurado el entorno de trabajo con las herramientas de compilacion y ejecucion de cada lenguaje de programacion. Para más información acerca de la preparación del entorno para la ejecución de cada una de estos lenguajes de programacion dirigirse a la sección [instalacion](#instalacion).
 
-4. Para subir sus ejercicios a su rama, ejecutar en la consola:
-	
-	git add --all
-	git commit -m "Description"
-	git push origin NombreEquipo
+### Instalación #
 
-# Recomendaciones
+Preparación del entorno para la compilación y ejecución de C++, Java y Python.
 
-Procuren no hacer sus commits en otra rama.
-Clasifiquen sus ejercicios de forma entendible para los demas.
+#### Instalando C++ en Microsoft Windows #
 
+```
+
+```
+
+#### Instalando C++ en Linux #
+
+ 1. Debian y derivados de Ubuntu
+
+```
+
+```
+
+
+## Ejecución #
+
+Ejecutando un archivo de Java
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+
+## Contribuir #
+
+Por favor leer [CONTRIBUTING.md](CONTRIBUTING.md) para mas detalles en cuanto a normas del codigo y pasos para realizar una contribucion.
+
+
+## Autores
+
+* **[Yeison Gomez](https://github.com/YeisonGomez)**
+* **[Julian D. MR](https://github.com/juliandavidmr/)**
+
+## Licencia
+
+Este proyecto está disponible bajo la licencia MIT.
